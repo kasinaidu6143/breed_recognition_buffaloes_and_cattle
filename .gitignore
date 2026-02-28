@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset folders
+dataset/
+data/
+images/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Large temporary files
+*.h5
+*.ckpt
+
+# Keep keras tracked by LFS (DO NOT ignore it)
